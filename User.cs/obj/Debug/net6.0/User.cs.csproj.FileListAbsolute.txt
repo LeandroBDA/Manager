@@ -1,0 +1,5 @@
+/home/leandrobezerra/Manager/User.cs/obj/Debug/net6.0/User.cs.csproj.AssemblyReference.cache
+/home/leandrobezerra/Manager/User.cs/obj/Debug/net6.0/User.cs.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandrobezerra/Manager/User.cs/obj/Debug/net6.0/User.cs.AssemblyInfoInputs.cache
+/home/leandrobezerra/Manager/User.cs/obj/Debug/net6.0/User.cs.AssemblyInfo.cs
+/home/leandrobezerra/Manager/User.cs/obj/Debug/net6.0/User.cs.csproj.CoreCompileInputs.cache
